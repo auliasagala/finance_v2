@@ -23,3 +23,4 @@ Teknologi yang digunakan:
 - JavaScript
 - jQuery
 - AJAX Call
+- Bootstrap v4.4.1
