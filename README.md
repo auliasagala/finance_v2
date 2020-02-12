@@ -1,5 +1,5 @@
 # finance_v2
-Aplikasi web sederhana untuk pengelolaan keuangan.
+Aplikasi Rekap Transaksi Keuangan.
 
 Finance_V2 dibangun menggunakan framework PHP CodeIgniter v3.1.11 dan DBMS MariaDB. Terdapat 4 menu utama yakni Dashboard, Categories, Transactions, dan Reports.
 
